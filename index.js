@@ -16,7 +16,7 @@ const client = new Client({
 
 const TOKEN = process.env.TOKEN;
 
-const messageId = 'TU_WKLEJ_ID_WIADOMOSCI';
+const messageId = '1515820566119055470';
 
 const teams = {
   '🟣': {
